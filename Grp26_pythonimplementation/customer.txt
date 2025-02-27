@@ -1,0 +1,25 @@
+|   C000001   |        Paul        |        None        |   AB9899042177A    |     D87843795      |                                                  |    09-31231231     |     2024-05-11     |
+|   C000002   |    Ali Muhammad    |   999999-99-9999   |        None        |     D12345678      |      18-, Main Street, 34000, Kuala Lumpur       |    018-2093045     |     2024-05-11     |
+|   C000003   |        Gau         |        None        |   DA5900737799X    |     D81234719      |                                                  |    018-5892039     |     2024-05-11     |
+|   C000004   |       Coneli       |        None        |   QT1711787640A    |     D12314541      |                                                  |    012-9738342     |     2024-05-11     |
+|   C000005   |    Daniel Wong     |   860317-45-6789   |        None        |     D78901234      |       753 Jalan Cheras, Kuala Lumpur 56000       |     08-2034507     |     2024-05-11     |
+|   C000006   |     Sophia Tan     |   900629-12-3456   |        None        |     D12345678      |   369 Jalan Bukit Bintang, Kuala Lumpur 55100    |     03-4567890     |     2024-05-11     |
+|   C000007   |      Emily Ng      |   940905-78-9012   |        None        |     D34567890      |   159 Jalan Genting Kelang, Kuala Lumpur 53300   |     03-1234567     |     2024-05-11     |
+|   C000008   |       Giveon       |        None        |   PA1234567890X    |     D71764393      |         7, Up Town, 55000, Kuala Lumpur          |    019-7373631     |     2024-05-11     |
+|   C000009   |    Benjamin Lim    |   870912-67-8901   |        None        |     D56789012      |     741 Jalan Tun Perak, Kuala Lumpur 50050      |    02-23947043     |     2024-05-11     |
+|   C000010   |      Emma Ng       |   920205-34-5678   |        None        |     D90123456      |       258 Jalan Putra, Kuala Lumpur 50350        |     03-1234567     |     2024-05-11     |
+|   C000011   |    Joseph Wong     |   950618-89-0123   |        None        |     D34567890      |    975 Jalan Masjid India, Kuala Lumpur 50100    |     03-5678901     |     2024-05-11     |
+|   C000012   |     Olivia Tan     |   880930-56-7890   |        None        |     D78901234      |        642 Jalan Imbi, Kuala Lumpur 55100        |     09-2049586     |     2024-05-11     |
+|   C000013   |        Nana        |        None        |   QR0123456789S    |     D10427077      |                                                  |    017-9081042     |     2024-05-11     |
+|   C000014   |        Kai         |        None        |   SR4567890123R    |     D11162381      |                                                  |    011-78119821    |     2024-05-11     |
+|   C000015   |     Robert Lim     |   910412-23-4567   |        None        |     D92344121      |   319 Jalan Sultan Ismail, Kuala Lumpur 50250    |     03-3456789     |     2024-05-11     |
+|   C000016   |     Sophia Ng      |   940728-78-9012   |        None        |     D92485129      |   486 Jalan Bukit Bintang, Kuala Lumpur 55100    |    012-3866736     |     2024-05-11     |
+|   C000017   |        Luka        |        None        |   OP6789012345T    |     D77777777      |                                                  |    017-7376781     |     2024-05-11     |
+|   C000018   |    Thomas Wong     |   860105-45-6789   |        None        |     D78914055      |       753 Jalan Ampang, Kuala Lumpur 68000       |     05-9891479     |     2024-05-11     |
+|   C000019   |       Drake        |        None        |   TU8901234567Q    |     D78912435      |                                                  |     04-8047424     |     2024-05-11     |
+|   C000020   |   Alexander Lim    |   870624-67-8901   |        None        |     D35846314      |      321 Jalan Petaling, Kuala Lumpur 50000      |    012-3966432     |     2024-05-11     |
+|   C000021   |        Dave        |        None        |   GG9899011148F    |     D12349098      |      10, Jalan Famosa, 54000, Kuala Lumpur       |     08-3341832     |     2024-05-15     |
+|   C000022   |       Jalen        |   001219-14-9899   |        None        |     D99997077      |      24, Jalan Farmosa, 54000, Kuala Lumpur      |    012-7377989     |     2024-05-15     |
+|   C000023   |       ervin        |        None        |        None        |     D12345789      |        1, lorong ad 27, taman aman damai         |    019-0290292     |     2024-05-15     |
+|   C000024   |       weelip       |   020304-82-0183   |        None        |     D91278728      |        14,parkhill residence, kualalumpur        |    018-9179371     |     2024-05-15     |
+|   C000025   |       Muadib       |        None        |   GS1234882819F    |     D81482949      |                     1,africa                     |    018-92787192    |     2024-05-15     |
